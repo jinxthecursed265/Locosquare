@@ -1,2 +1,2 @@
-video_open(videoinfo[0])
+video_open("video/" + videoinfo[0])
 videoplay = true
