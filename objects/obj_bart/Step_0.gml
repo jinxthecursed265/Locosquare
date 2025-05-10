@@ -12,7 +12,7 @@ x += hsp
 y += vsp
 if ((bbox_bottom + vsp) > room_height || (bbox_top + vsp) < 0) && ((bbox_right + hsp) > room_width || (bbox_left + hsp) < 0)
 {
-	instance_destroy()
+	instance_destroy() //if like the instance like uhh destroy then bart DEATHS!!!!
 	global.bartcounter += 1
 	if instance_count <= 1 || global.bartcounter > 100
 	{

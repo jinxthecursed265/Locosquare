@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":254.04,
+  "duration":254.00311,
   "name":"ao_oni",
   "parent":{
     "name":"Sounds",

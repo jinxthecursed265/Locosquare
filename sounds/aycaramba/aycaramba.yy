@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.152,
+  "duration":1.1275057,
   "name":"aycaramba",
   "parent":{
     "name":"Sounds",
