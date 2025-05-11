@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.008,
+  "duration":0.9636508,
   "name":"horse7",
   "parent":{
     "name":"thehorse",
