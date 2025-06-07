@@ -1,7 +1,9 @@
 // b, h, j, l, m, o, p, r, w
 
-function la(){
-	
+function la(){ // 我在一家高级餐厅里把一块 Twinkie 塞进了我的屁股
+	with (instance_create_layer(0, 0, "Instances", obj_mustard)){
+		sprite_index = mustard
+		object = false}
 }
 
 function lb(){ // click the bart
@@ -90,8 +92,10 @@ function lr(){ // rec room lmao
 		window_set_caption("rec room")
 }
 
-function ls(){ 
-	
+function ls(){ // The entire half time show
+		with (instance_create_layer(0, 0, "Instances", obj_videoplayer))
+		videoinfo = ["halftimeshow.mp4", 1920, 1080]
+		window_set_caption("MUSTAAAAAAAAARRRRRDDDDDDDDD")
 }
 
 function lt(){
