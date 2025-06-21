@@ -94,7 +94,7 @@ function lr(){ // rec room lmao
 
 function ls(){ // The entire half time show
 		with (instance_create_layer(0, 0, "Instances", obj_videoplayer))
-		videoinfo = ["halftimeshow.mp4", 1920, 1080]
+		videoinfo = ["halftimeshow.mp4", 320, 240]
 		window_set_caption("MUSTAAAAAAAAARRRRRDDDDDDDDD")
 }
 
