@@ -113,7 +113,7 @@ function lv(){
 function lw(){ // wega
 	with (instance_create_layer(0, 0, "Instances", obj_jesus)){
 		sprite_index = wega
-		object = false}
+		}
 }
 
 function lx(){

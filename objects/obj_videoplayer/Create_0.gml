@@ -1,4 +1,4 @@
-object_deletes()
+room_goto(videoroom)
 layer_destroy("Effect_1")
 videoinfo = ["luigi.mp4", 364, 360] // video info [videoname, width, height]
 videoplay = false
