@@ -13,7 +13,10 @@ function lb(){ // click the bart
 }
 
 function lc(){
-	
+	with (instance_create_layer(0, 0, "Instances", obj_jesus))
+		sprite_index = catowl
+	window_set_caption("catowl")
+	audio_play_sound(nature, 1, true)
 }
 
 function ld(){ //die lit

@@ -1,3 +1,2 @@
 lastkey = ""
-
-
+global.deadbart = false
