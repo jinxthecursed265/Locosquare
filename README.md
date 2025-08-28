@@ -1,3 +1,3 @@
 # Locosquare
 
-The Amazing RPG Locosquare and all it does is one thing! Spawn loco and other stuff
+can you cook eggs on a frying pan
