@@ -1,8 +1,8 @@
 /// @description Initialize Discord.
 
-#macro DISCORD_APP_ID "1410744647411695830"
+#macro DISCORD_APP_ID "1410764884165263390"
 
-ready = false;
+ready = true;
 
 alarm[0] = room_speed * 5;
 

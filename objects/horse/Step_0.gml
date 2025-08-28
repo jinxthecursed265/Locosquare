@@ -15,6 +15,7 @@ if (!ascension)
 				t = 100
 				alarm[1] = (1.4 * room_speed)
 				sprite_index = heyitsmegoku
+				np_setpresence("goku..", "Hey its me Goku!", "goku", "");
 			}
 			else if (t > val)
 			var t = irandom_range(1, val)

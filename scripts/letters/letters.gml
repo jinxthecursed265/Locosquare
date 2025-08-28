@@ -17,6 +17,7 @@ function lc(){
 		sprite_index = catowl
 	window_set_caption("catowl")
 	audio_play_sound(nature, 1, true)
+	np_setpresence("Nature is beautiful", "Meowl", "meowl", "");
 }
 
 function ld(){ //die lit
