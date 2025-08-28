@@ -47,6 +47,7 @@
   },
   "name":"Loco",
   "resources":[
+    {"id":{"name":"NekoPresence","path":"extensions/NekoPresence/NekoPresence.yy",},},
     {"id":{"name":"comicsans","path":"fonts/comicsans/comicsans.yy",},},
     {"id":{"name":"horse","path":"objects/horse/horse.yy",},},
     {"id":{"name":"killbart","path":"objects/killbart/killbart.yy",},},
@@ -58,6 +59,7 @@
     {"id":{"name":"obj_restart","path":"objects/obj_restart/obj_restart.yy",},},
     {"id":{"name":"obj_square","path":"objects/obj_square/obj_square.yy",},},
     {"id":{"name":"obj_videoplayer","path":"objects/obj_videoplayer/obj_videoplayer.yy",},},
+    {"id":{"name":"objNekoPresenceDemo","path":"objects/objNekoPresenceDemo/objNekoPresenceDemo.yy",},},
     {"id":{"name":"clickthebart","path":"rooms/clickthebart/clickthebart.yy",},},
     {"id":{"name":"ou_oni","path":"rooms/ou_oni/ou_oni.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
