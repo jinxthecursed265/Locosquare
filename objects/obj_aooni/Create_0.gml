@@ -1,2 +1,2 @@
 movespeed = 4
-np_update()
+np_setpresence("oni", "Ao oni", "oni", "");

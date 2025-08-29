@@ -52,6 +52,7 @@ with (instance_create_layer(0, 0, "Instances", obj_jesus))
 	sprite_index = THE_COCK_IS_WATCHING
 audio_play_sound(jesas, 1, true)
 window_set_caption("hello i am jesus")
+np_setpresence("jesos", "Hello i am Jesus", "jesus", "");
 }
 
 function lk(){

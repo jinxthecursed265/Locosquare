@@ -47,6 +47,7 @@
   },
   "name":"Loco",
   "resources":[
+    {"id":{"name":"Developer_Console","path":"extensions/Developer_Console/Developer_Console.yy",},},
     {"id":{"name":"NekoPresence","path":"extensions/NekoPresence/NekoPresence.yy",},},
     {"id":{"name":"comicsans","path":"fonts/comicsans/comicsans.yy",},},
     {"id":{"name":"horse","path":"objects/horse/horse.yy",},},
