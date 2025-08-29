@@ -2,8 +2,8 @@ if (!videoplay)
 return;
 var _data = video_draw();
 var _status = _data[0];
-var _xscale = camera_get_view_width(0) / videoinfo[1]
-var _yscale = camera_get_view_height(0) / videoinfo[2]
+var _xscale = window_get_width() / videoinfo[1]
+var _yscale = window_get_height() / videoinfo[2]
 if (_status == 0)
 {
     var _surface = _data[1];

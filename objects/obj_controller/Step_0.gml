@@ -6,4 +6,12 @@ if room == Room1 && lastkey != keyboard_lastchar
 	script_execute(scr)
 }
 else if room != Room1 && keyboard_check_pressed(vk_backspace)
-	game_restart()
+{
+	with (all)
+	{
+		if self != other
+			instance_destroy()
+	}
+	audio_stop_all()
+	room_goto(Room1)
+}
