@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.277098,
+  "duration":1.2770975,
   "name":"loco",
   "parent":{
     "name":"Sounds",

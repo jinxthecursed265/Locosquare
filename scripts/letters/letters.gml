@@ -63,6 +63,7 @@ function ll(){ // luigi tony hawk
 	with (instance_create_layer(0, 0, "Instances", obj_videoplayer))
 		videoinfo = ["luigi.mp4", 364, 360]
 		window_set_caption("holy shit its luigi")
+		np_setpresence("Luigi Luigi Luigi Luigi Luigi Luigi Luigi Luigi ", "Luigi..", "luig", "");
 }
 
 function lm(){ // mario minecraft
@@ -85,6 +86,7 @@ function lp(){ // WHEN I FRICKIN DOWNLOADED PIZZA TOWER UNITED IT FRICKING INFEC
 	with (instance_create_layer(0, 0, "Instances", obj_jesus))
 		sprite_index = spr_WHENIFRICKINDOWNLOADEDPIZZATOWERUNITEDITFRICKINGINFECTEDEVERYTHING
 		window_set_caption("WHEN I FRICKIN DOWNLOADED PIZZA TOWER UNITED IT FRICKING INFECTED EVERYTHING LIKE I DOWNLOADED IT FROM PIZZA TOWER AND EVERYTHING I DO THE PTU DISCORD SDK WILL ALWAYS BE THERE AND ARE YOU SERIOUS!?! FUCK YOU ALL IM GONNA LEAVE THIS SHIT NOW GO FUCK YOURSELFS AND NEVER COME BACK TO INVITE ME ON THIS EVER AGAIN EVERYTHING I DO VERIFY INTEGRITY DOES NOT WORK UNINSTALL DOES NOT WORK REDOWNLOAD STEAM NOT EVEN FUCKING WORKING LIKE THE WHAT THE FUCK?!! GO FUCK YOURSELFS!")
+		np_setpresence("WHEN I FRICKIN DOWNLOADED PIZZA TOWER UNITED", "IT INFECTED EVERYTHING", "pt", "");
 }
 
 function lq(){
